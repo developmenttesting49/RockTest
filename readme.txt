@@ -1,7 +1,7 @@
 Here are the before and after projects for JavaScript Getting Started, JavaScript Beginnings.
 Be sure and follo the step to understand how to set up a project.
 
-on the bash git start typing the folow instruction.
+on the bash git or VSC start typing the folow instruction.
 
 git config --global user.name "username"
 git config --global user.email "email"
