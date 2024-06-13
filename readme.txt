@@ -12,8 +12,15 @@ git remote add origin https://github.com/developmenttesting49/RockTest.git
 git branch -M main 
 git push -u origin main 
 
-Access the correct folder, in this case it is more effective C:\Client\examples\02\demos\after\js-demo
+steps
+move to the app folder and de
 
+- npm install all
+
+to install all dependencies
+
+then try to do
+- npm run start
 
 if an error is raised, run the follow sentences 
 > js-starter-code@1.0.0 start
@@ -27,3 +34,4 @@ These commands will update the node_modules folder and start the liveserver, sho
 
 now you will be able to run 
 npm run start.
+
